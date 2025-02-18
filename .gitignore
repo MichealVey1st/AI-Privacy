@@ -1,0 +1,46 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+yolov11_env/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore coverage reports
+coverage/
+htmlcov/
+
+# ignore dataset files
+Dataset Roboflow/
+
+# ignore model files and example outputs because files are wayyyyy to large
+.cfg
+.weights
+.mp4
