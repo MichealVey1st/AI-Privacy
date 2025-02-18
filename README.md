@@ -16,7 +16,12 @@ Welcome to the AI Privacy Project! This project aims to automate the protection 
 
 ## Structure
 
-This is set up in a way to reflect the iterations of my program with the latest being v6. Each has a unique description of what was changed in that iteration.
+This is set up in a way to reflect the iterations of my program with the latest being v6. Each has a unique description of what was changed in that iteration. 
+
+_NOTE: please note that this repo is missing the .cfg, .weights, and outputs for each versions due to githubs upload limits. You can find the cfg and weights below, for the outputs you will need to run the program to get those._
+
+- [.cfg] (https://raw.githubusercontent.com/sthanhng/yoloface/refs/heads/master/cfg/yolov3-face.cfg)
+- [.weights] (https://drive.google.com/file/d/1xYasjU52whXMLT5MtF7RCPQkV66993oR/view?usp=sharing) 
 
 ## Future Plans
 
